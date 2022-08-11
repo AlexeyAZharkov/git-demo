@@ -1,6 +1,7 @@
 header
 
 hello world!
+добавление текста
 
 update text. END.
 
